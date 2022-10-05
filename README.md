@@ -7,7 +7,6 @@
 
 ROCKING-CVE is a Collection of CVE.
 
-Project Link : https://z3dc0ps.github.io/ROCKING-CVE/
 
 
 ## Contributors
