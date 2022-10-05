@@ -11,7 +11,7 @@ Project Link : https://z3dc0ps.github.io/ROCKING-CVE/
 
 
 ## Contributors
-<a href="">How to Contribute</a>
+<a href="https://github.com/z3dc0ps/ROCKING-CVE/blob/main/CONTRIBUTE.md">How to Contribute</a>
 
 ### Thanks to all Contributors
 <a href="https://github.com/z3dc0ps/ROCKING-CVE/graphs/contributors">
