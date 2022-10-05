@@ -8,6 +8,4 @@
 
 ### Pull request
 
-A POC command must be in the exploit.
-
 Attach a screenshot of the output or POC link for clarification.
